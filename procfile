@@ -1,1 +1,1 @@
-web: npm install; npm run knex:migrate; npm run knex:seed; npm run dev
+web:ts-node/src/server.ts
